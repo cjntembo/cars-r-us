@@ -1,0 +1,12 @@
+.options {
+    display: flex;
+}
+
+.choices {
+    flex-basis: 15%;
+    margin: 0 2rem;
+    border: 2px solid blueviolet;
+    padding: 1rem;
+    border-radius: .1rem;
+
+}
